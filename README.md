@@ -14,31 +14,23 @@ Oh, by the way, I also play FINAL FANTASY XIV. Venturing into its emotionally ca
  - 📫 How to reach me: [test@gmail.com](mailto:test@gmail.com)
  - 🔗 My website: [testsite](https://google.com)
  
- </br>
+***
 
 **Tools:**
 <br>
 
-<code><img height="20" src="Resource/Linux.svg"></code>
-<code><img height="20" src="Resource/Windows.svg"></code>
+<img height="20" src="Resource/Linux.svg"> <img height="20" src="Resource/Windows.svg">
 
-<code><img height="20" src="Resource/VSCode.svg"></code>
-<code><img height="20" src="Resource/Docker.svg"></code>
-<code><img height="20" src="Resource/Figma.svg"></code>
-<code><img height="20" src="Resource/GitHub.svg"></code>
+<img height="20" src="Resource/VSCode.svg"> <img height="20" src="Resource/Docker.svg"> <img height="20" src="Resource/Figma.svg"> <img height="20" src="Resource/GitHub.svg">
 
 **Languages**
 <br>
 
-<code><img height="20" src="Resource/HTML5.svg"></code>
-<code><img height="20" src="Resource/CSS3.svg"></code>
-<code><img height="20" src="Resource/Javascript.svg"></code>
-<code><img height="20" src="Resource/TypeScript.svg"></code>
-<code><img height="20" src="Resource/React.svg"></code>
-<code><img height="20" src="Resource/Python.svg"></code>
+<img height="20" src="Resource/Python.svg">
 
-<code><img height="20" src="Resource/PHP.svg"></code>
-<code><img height="20" src="Resource/Laravel.svg"></code>
+<img height="20" src="Resource/HTML5.svg"> <img height="20" src="Resource/CSS3.svg"> <img height="20" src="Resource/Javascript.svg"> <img height="20" src="Resource/TypeScript.svg"> <img height="20" src="Resource/React.svg">
+
+<img height="20" src="Resource/PHP.svg"> <img height="20" src="Resource/Laravel.svg">
 
 <div align="center">
 
