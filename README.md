@@ -8,11 +8,6 @@ Simulation games are truly a sanctuary for me, and I hold a deep affection for t
 I aspire to contribute to the advancement of future technologies while continuously evolving together. It's a pleasure to meet you, and I appreciate your support.
 
 Oh, by the way, I also play FINAL FANTASY XIV. Venturing into its emotionally captivating world is my daily source of relaxation.
-
-<br>
-
- - 📫 How to reach me: [test@gmail.com](mailto:test@gmail.com)
- - 🔗 My website: [testsite](https://google.com)
  
 ***
 
