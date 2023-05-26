@@ -25,15 +25,15 @@ Oh, by the way, I also play FINAL FANTASY XIV. Venturing into its emotionally ca
 <code><img height="20" src="Resource/VSCode.svg"></code>
 <code><img height="20" src="Resource/Docker.svg"></code>
 <code><img height="20" src="Resource/Figma.svg"></code>
-<code><img height="20" src="Resource/Github.svg"></code>
+<code><img height="20" src="Resource/GitHub.svg"></code>
 
 **Languages**
 <br>
 
 <code><img height="20" src="Resource/HTML5.svg"></code>
 <code><img height="20" src="Resource/CSS3.svg"></code>
-<code><img height="20" src="Resource/javascript.svg"></code>
-<code><img height="20" src="Resource/Typescript.svg"></code>
+<code><img height="20" src="Resource/Javascript.svg"></code>
+<code><img height="20" src="Resource/TypeScript.svg"></code>
 <code><img height="20" src="Resource/React.svg"></code>
 <code><img height="20" src="Resource/Python.svg"></code>
 
